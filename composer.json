@@ -1,0 +1,19 @@
+{
+    "name": "zlavrov/random",
+    "description": "New random value generator.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Zlavrov\\Random\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "zlavrov",
+            "email": "zakhar.polosky@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
